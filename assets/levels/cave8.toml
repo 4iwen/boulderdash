@@ -1,0 +1,38 @@
+[meta]
+name = "Cave H: Enchanted wall"
+time_limit = 120
+diamonds_required = 10
+diamond_value = 10
+bonus_diamond_value = 20
+
+[colors]
+background1 = "lightblue"
+background2 = "red"
+foreground = "white"
+
+[level]
+data = """
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W . r.. . .. ..r. ..X ..r.  ..r. r... .W
+P.r.rr...... ..r...r.... ...r.....dr.r.W
+W r..r...  ...r..r. ..r.r...wwwwwwwwwwwW
+W...d ..r. q.....r..... ........rr r..rW
+Wwwwwwwwwwwww..r.r.... .  ......r  r..rW
+W.  ... ..r.  ..r.  .... rrr.....  r.. W
+W... r... q.. ..r.  .....r.rr..r. . r..W
+W..r. ..r. r.... ..... ...r r..r.... ..W
+W.....r ...... .  qrr. ...  r.. .r....rW
+Wr.r... . r...... ..r...r....r....dr.  W
+W......r. r......... r..r...wwwwwwwwwwwW
+W.rr...... ..r. ... ..r.  ..r.  ... r..W
+Wwwwwwwwwwwwwr........ ...r......r.rr..W
+W..r...  ...d..r. ..r.rr.........r.rr..W
+W.. ..r. .r...mmmmmmmm.........  r..r..W
+Wr.. r....r..r r...d .. .......  r..r..W
+W ... ..r. ...r.  .....rrrr..r. . r.. rW
+W. r..q.r.... .  ......rr r..r...  ...rW
+Wr.  ..r.  .....r.r. ...  r..r.... ...rW
+W...  .r.r .....r.r.....   .. .r....r..W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+"""
+

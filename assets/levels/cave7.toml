@@ -1,0 +1,38 @@
+[meta]
+name = "Cave G: Amoeba"
+time_limit = 120
+diamonds_required = 15
+diamond_value = 10
+bonus_diamond_value = 20
+
+[colors]
+background1 = "lightred"
+background2 = "brown"
+foreground = "lightgreen"
+
+[level]
+data = """
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W. .. .rr..... ..r. X.... rr r..r. .  .W
+W ..r. .. .  .... .r.r. ...  r..r.d.. .W
+Wr.....  .q.  ... .r.r. ... wwwwwwwwwwwW
+W.r.d... .  ...... ..rr..r.... . ... . W
+Wwwwwwwwwwwww.r. ..   r.. .... ...r....P
+Wr. r...... ..r. ... ..r.  ..r.  q.....W
+Wr. r...... .. r..r.... ...r......r.rr.W
+W... ..r  ... ..r.  ..r.  ... ....r.rr.W
+W... ..r. .r.... ...q......r.r..  r..r.W
+W  .. r.... ..r.r.... .  .......  d.. .W
+W. ... .. .  .. .  .....rr r..r. . r.. W
+W.. d..r.r.... .  ......r  r..r. .  ...W
+W.r.  ..r.  ... .r.r. ...  r.. .... ...W
+W....  .r.  ... .r.r. .r. . r.. r.... .W
+W.  .... ....  .. r r..r.... ...r... .rW
+W..... .  .rr. ...  r.. .r... r..r.r...W
+W r...... ..r. .r.... .  ..r.  r.......W
+W r...... .. r..r.... ...r......r.rr...W
+W. ..r. ... ..r.  .aa.  ... ....r.rr...W
+W. .drq..r.... ...r......r.rq.....dr...W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+"""
+

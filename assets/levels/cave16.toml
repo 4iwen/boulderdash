@@ -1,0 +1,38 @@
+[meta]
+name = "Cave P: Enchanted boxes"
+time_limit = 150
+diamonds_required = 12
+diamond_value = 10
+bonus_diamond_value = 20
+
+[colors]
+background1 = "lightred"
+background2 = "brown"
+foreground = "white"
+
+[level]
+data = """
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WX..r..........r........r.....r..r.....W
+W.r.rr.........r...r........r......r.r.P
+W.r..r........r..r....r.r..........r.rrW
+W.......r..r.....r..............rr.r..rW
+W..r...r....r..r.r..............r..r..rW
+W.........r.....r........rrr.......r...W
+W....r....r.....r........r.rr..r....r..W
+W..r...mmmmmm..mmmmmm.....r.r..r.......W
+W.....rw....w..w..rrw.......r....r....rW
+Wr.r...w..r.w..w....w...r....r.....r...W
+W......w..r.w..w....wr..r........r.....W
+W.rr...w....wr.w....w.r.....r.......r..W
+W.rr...w....wrrw.r..w.....r......r.rr..W
+W..r...w....w..w....w.rr.........r.rr..W
+W.....rwwwwww..wwwwww............r..r..W
+Wr...r....r..r.r.................r..r..W
+W.............r........r.....r........rW
+W..r..r.. q...... q....r. q..r... q...rW
+Wr.....r.  ......  ......  ..r...  ...rW
+W......r.......................r....r..W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+"""
+

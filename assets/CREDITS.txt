@@ -1,0 +1,29 @@
+Boulder Dash spritesheet
+-------------------------------
+File: sprites/spritesheet.png
+Source: "Boulderdash rendering | Jake Gordon"
+Uploader: Jake Gordon
+Website: jakesgordon.com
+URL: https://jakesgordon.com/writing/boulderdash-rendering/sprites.png
+Date Accessed: 2026-01-03
+
+Colors modified. 
+Used for educational, noncommercial, and academic purposes only.
+
+Boulder Dash 6128 font
+----------------------
+File: fonts/Boulder Dash 6128.ttf
+Source: "Boulder Dash 6128 Font | dafont.com"
+Uploader: Damien Gosset
+Website: dafont.com
+URL: https://www.dafont.com/boulderdash6128.font
+Date Accessed 2025-12-10
+
+C64 Boulder Dash Decoded Cave Data
+----------------------------------
+Files: levels/*.toml
+Source: "Boulder dash decoded cave data"
+Uploader: Jake Gordon
+Website: jakesgordon.com
+URL: https://jakesgordon.com/writing/javascript-boulderdash/decoded_cave_data.pdf
+Date Accessed: 2026-01-03

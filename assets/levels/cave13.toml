@@ -1,0 +1,38 @@
+[meta]
+name = "Cave M: Apocalypse"
+time_limit = 160
+diamonds_required = 50
+diamond_value = 5
+bonus_diamond_value = 8
+
+[colors]
+background1 = "orange"
+background2 = "blue"
+foreground = "lightgreen"
+
+[level]
+data = """
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Wr.....rr.P.....r.Xra.......r........r.W
+W.....r.r............r....r..r.r.......W
+W........r..r..............r...........W
+Wr.......r...........r......r..r.......W
+Wr........r.....r...r.......r..r.......W
+W.r..r........r......r.rr.........r....W
+W..r.....r...........r.rr.........r...rW
+W......r......r.r....r..r........r..r..W
+Wr.r..........r.r..........r...........W
+W..........rr.r..r....r...r....r..r.r..W
+W..........r..r..r...........r.....r...W
+W...r.r.......r...........r........r...W
+W...r.r...r....r...r.......r...........W
+W....r.r..r........r.....r............rW
+W......r....r....r..r.r......r.........W
+W..r.wwwwwwwwwwwwwwwwwwwwwwwwwwwwww....W
+W..r.BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB....W
+Wr...rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.r..W
+W......................................W
+W.r................................r...W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+"""
+
