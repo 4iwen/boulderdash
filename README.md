@@ -2,6 +2,8 @@
 
 A Boulder Dash game remade in Python using pyglet.
 
+[Showcase](report_src/img/game.png)
+
 ## Features
 
 - 20 Tile-based levels
