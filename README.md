@@ -2,7 +2,7 @@
 
 A Boulder Dash game remade in Python using pyglet.
 
-![Showcase](report_src/img/game.png)
+![Showcase](showcase.gif)
 
 ## Features
 
